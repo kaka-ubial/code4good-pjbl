@@ -1,0 +1,32 @@
+.contac_form a {
+  text-align: center;
+  font-size: 14px;
+  transition: ease-in all 0.5s;
+  text-transform: uppercase;
+  color: #1AACAC;
+  padding: 15px 0px;
+  display: block;
+  margin-top: 10px !important;
+  font-weight: 500;
+  margin: 0 auto;
+}
+
+.project-section .section-content .cards{
+  width: 100%;
+  position: absolute;
+  height: auto;
+}
+
+.project-section .section-content .cards-projecct .card-project{
+  width: 50%;
+  display: inline-block;
+  vertical-align: text-top;
+  margin-bottom: 5px;
+}
+
+.project-section .section-content .cards-projecct .card-project .article p{
+  color: black;
+  font-family: 'Rubik';
+  font-size: 18px;
+}
+
